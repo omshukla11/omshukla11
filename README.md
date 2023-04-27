@@ -5,21 +5,34 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Web Development**
-- 🌱 I’m currently learning **Data Analytics**
-- 👯 I’m looking to collaborate on **Web Development with React and Django**
-- 🤔 I’m looking for help with **Data Analytics**
+- 🌱 I’m currently learning **Data Science**
+- 👯 I’m looking to collaborate on **Data Science**
+- 🤔 I’m looking for help with **Data Science**
 - 📫 How to reach me:<ul> <li>Gmail: shuklaom1208@gmail.com</li><li>Linkedin: https://www.linkedin.com/in/omshukla11/</li></ul>
 - ⚡ Fun fact: Interested in **Trekking, Psychology and Philosophy**.
 
 
 ### <h1 align="center">🛠 TECH SKILLS</h1>
-<ul><li>Languages:<br/>
+<ul><li>ML/DL:<br/>
   
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+  
+<li>Platform:<br/>
+  
+  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+<li>Languages:<br/>
+  
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  
   
 <li>Frameworks & libraries:<br/>
   
