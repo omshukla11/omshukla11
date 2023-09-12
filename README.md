@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Data Science**
 - 👯 I’m looking to collaborate on **Data Science**
 - 🤔 I’m looking for help with **Data Science**
-- 📫 How to reach me:<ul> <li>Gmail: shuklaom1208@gmail.com</li><li>Linkedin: https://www.linkedin.com/in/omshukla11/</li><li>https://leetcode.com/omshukla_11/</li></ul>
+- 📫 How to reach me:<ul> <li>Gmail: shuklaom1208@gmail.com</li><li>Linkedin: https://www.linkedin.com/in/omshukla11/</li><li>LeetCode: https://leetcode.com/omshukla_11/</li></ul>
 - ⚡ Fun fact: Interested in **Trekking, Psychology and Philosophy**.
 
 
